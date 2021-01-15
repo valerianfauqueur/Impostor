@@ -1,0 +1,7 @@
+{
+  "name": "Impostor server",
+  "description": "Deploy an impostor server on heroku",
+  "repository": "https://github.com/valerianfauqueur/Impostor",
+  "logo": "https://github.com/ottomated/CrewLink-server/raw/master/logo.png",
+  "keywords": ["csharp", "among us"]
+}
