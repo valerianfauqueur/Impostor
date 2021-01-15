@@ -1,4 +1,5 @@
 # Impostor
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 [![Discord](https://img.shields.io/badge/Discord-chat-blue?style=flat-square)](https://discord.gg/Mk3w6Tb)
 [![AppVeyor](https://img.shields.io/appveyor/build/Impostor/Impostor/dev?style=flat-square)](https://ci.appveyor.com/project/Impostor/Impostor/branch/dev)
