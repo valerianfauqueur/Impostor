@@ -1,4 +1,4 @@
-FROM --platform=$BUILDPLATFORM mcr.microsoft.com/dotnet/sdk:5.0 AS build
+FROM --platform=linux-x64 mcr.microsoft.com/dotnet/sdk:5.0 AS build
 
 # See for all possible platforms
 # https://github.com/containerd/containerd/blob/master/platforms/platforms.go#L17
